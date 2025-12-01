@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Sharma",
+    "role": "Frontend Developer",
+    "skills": ["React", "Tailwind", "HTML"],
+    "bio": "Design-first UI engineer.",
+    "location": "Bhopal",
+    "photo": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Verma",
+    "role": "Backend Developer",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "bio": "APIs and systems.",
+    "location": "Indore",
+    "photo": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Neha Gupta",
+    "role": "Fullstack",
+    "skills": ["React", "Node.js", "Postgres"],
+    "bio": "End-to-end deliverables.",
+    "location": "Bhopal",
+    "photo": "https://i.pravatar.cc/150?img=3"
+  }
+]
