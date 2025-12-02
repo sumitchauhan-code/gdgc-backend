@@ -42,6 +42,6 @@ app.get('/members/:id', async (req, res) => {
 // health
 app.get('/health', (req, res) => res.json({ status: 'ok' }));
 
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => console.log(`Server listening on port http://localhost:${PORT}`));
 
